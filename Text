@@ -1,0 +1,11 @@
+# Minesweeper Game Java Project
+
+This project is a Java implementation of the classic Minesweeper game. It provides a graphical user interface (GUI) for players to interact with the game board and uncover mines without detonating them.
+
+## Features
+
+- **GUI Interface:** The game provides a user-friendly GUI for players to play Minesweeper.
+- **Customizable Grid:** Players can choose the size of the grid and the number of mines to customize their game experience.
+- **Timer:** The game includes a timer to track the player's progress.
+- **Win/Loss Detection:** The game detects when a player wins or loses based on their moves.
+- **Restart Option:** Players can restart the game at any time.
